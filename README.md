@@ -40,7 +40,7 @@ I also work closely with real-world construction and manufacturing operations th
 - Operations Research  
 - Manufacturing Systems & Techniques (Robotics & Automation)
 - Engineering Database Systems
-- Manufacturing & Industrial Engineering Principles     
+- Principles of Manufacturing & Industrial Engineering     
 - Engineering Probability & Statistics
 - Engineering Economy 
 - Linear Algebra & Differential Equations  
