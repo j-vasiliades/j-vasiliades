@@ -65,6 +65,5 @@ I also work closely with real-world construction and manufacturing operations th
 ## 🔗 Links
 - **LinkedIn:** *www.linkedin.com/in/julia-vasiliades*
 - **ORCID:** *https://orcid.org/0009-0004-2245-7949*
-- **Google Scholar:** *https://scholar.google.com/citations?hl=en&user=yflRqPQAAAAJ*  
 ---
 *Thanks for visiting! Feel free to explore my projects or reach out.*  
